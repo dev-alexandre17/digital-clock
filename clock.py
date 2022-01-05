@@ -24,7 +24,7 @@ root.title(f'Digital clock')
 
 # Configuração de imagem de fundo
 
-photo = PhotoImage(file="imagem\lo-fi.png")
+photo = PhotoImage(file="wallpaper-background\lo-fi.png")
 label1 = Label(root, image=photo) 
 label1.place(x = -5, y = 0) 
 
