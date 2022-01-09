@@ -13,6 +13,6 @@ pensei nas fontes serifas e não serifadas, tendo como base na construção do l
 
  - Editor de texto
  - Python 3.10
- - Biblioteca Tk
+ - Biblioteca Tkinter
 
 
