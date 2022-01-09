@@ -9,7 +9,7 @@ pensei nas fontes serifas e não serifadas, tendo como base na construção do l
  
 <br>
 
-<h2> Requisitos do software </h2>
+<h2> Requisitos </h2>
 
  - Editor de texto
  - Python 3.10
